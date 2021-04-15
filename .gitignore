@@ -1,2 +1,3 @@
-src/config.py
-src/config.pyc
+*.pyc
+.idea/*
+venv
